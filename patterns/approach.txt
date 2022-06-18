@@ -1,0 +1,7 @@
+steps:
+1) write the outer "for loop" for the numbers of rows it has
+    no. of rows = no. of lines = no. of outer "for loop" runs
+
+2) identify how many columns are there with each row 
+
+3) what do you need to print
